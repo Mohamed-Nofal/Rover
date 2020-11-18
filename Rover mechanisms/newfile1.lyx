@@ -1,0 +1,269 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 2cm
+\rightmargin 1cm
+\bottommargin 1.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Rover mechamism servey
+\end_layout
+
+\begin_layout Author
+Mohamed Tarek Mohamed Amien
+\end_layout
+
+\begin_layout Section
+Rocker bougie mechanism
+\end_layout
+
+\begin_layout Subsection
+Structure members
+\end_layout
+
+\begin_layout Enumerate
+6 wheels
+\end_layout
+
+\begin_layout Enumerate
+between 6 to10 motors
+\end_layout
+
+\begin_layout Enumerate
+rocker force member - bogie force member per side
+\end_layout
+
+\begin_layout Enumerate
+defrential bar
+\end_layout
+
+\begin_layout Subsection
+Advantages
+\end_layout
+
+\begin_layout Enumerate
+back wheels can overcome the obesticles up to two times the size of a wheel
+ reducing the change in the plane of the platform.
+\end_layout
+
+\begin_layout Enumerate
+no springs needed in the main mechanism functoin
+\end_layout
+
+\begin_layout Subsection
+Disadvantages
+\end_layout
+
+\begin_layout Enumerate
+too much motors
+\end_layout
+
+\begin_layout Enumerate
+the rocker wheel feels the obesticles noise
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename E:/SST lab/Rover mechanisms/cropped-rocker_bogie1.png
+	lyxscale 40
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+8 wheels double bogie mechaneism
+\end_layout
+
+\begin_layout Subsection
+Structure members
+\end_layout
+
+\begin_layout Enumerate
+wheels
+\end_layout
+
+\begin_layout Enumerate
+between 6 motors
+\end_layout
+
+\begin_layout Enumerate
+two bogie force member per side
+\end_layout
+
+\begin_layout Subsection
+Advantages
+\end_layout
+
+\begin_layout Enumerate
+back and front bogies can overcome the obesticles up to two times the size
+ of a wheel noise
+\end_layout
+
+\begin_layout Enumerate
+no springs needed in the main mechanism functoin
+\end_layout
+
+\begin_layout Enumerate
+less motors than Rocker bougie mechanism
+\end_layout
+
+\begin_layout Subsection
+Disadvantages
+\end_layout
+
+\begin_layout Enumerate
+too much wheels
+\end_layout
+
+\begin_layout Enumerate
+complex in control than Rocker bougie mechanism 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename E:/SST lab/Rover mechanisms/Screenshot 2020-11-17 010642.png
+	lyxscale 30
+	scale 20
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename E:/SST lab/Rover mechanisms/unnamed.jpg
+	lyxscale 130
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Ordinary 4 Wheels Car
+\end_layout
+
+\begin_layout Subsection
+Structure members
+\end_layout
+
+\begin_layout Enumerate
+4 wheels
+\end_layout
+
+\begin_layout Enumerate
+4-8 motors
+\end_layout
+
+\begin_layout Enumerate
+struts 
+\end_layout
+
+\begin_layout Enumerate
+springs
+\end_layout
+
+\begin_layout Subsection
+Advantages
+\end_layout
+
+\begin_layout Enumerate
+least wheels
+\end_layout
+
+\begin_layout Enumerate
+easy control
+\end_layout
+
+\begin_layout Enumerate
+low cost
+\end_layout
+
+\begin_layout Subsection
+Disadvantages
+\end_layout
+
+\begin_layout Enumerate
+the platform is unstable in the rough grounds with relatevely bis obsticles
+\end_layout
+
+\end_body
+\end_document
